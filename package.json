@@ -19,7 +19,7 @@
     "css-loader": "^0.26.1",
     "file-loader": "^0.10.0",
     "pug": "^2.0.0-beta9",
-    "node-sass": "^4.4.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^4.1.1",
     "vue-loader": "^10.1.2",
     "vue-template-compiler": "^2.1.10",
